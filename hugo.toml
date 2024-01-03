@@ -1,7 +1,8 @@
-baseURL = 'https://codeshard.github.io/aprendiendo-espanol/'
+baseURL = 'https://aprendiendo-espanol.github.io/landing/'
 languageCode = 'es-es'
 title = 'Aprendiendo Español'
 theme = 'hugo-profile'
+canonifyurls = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
