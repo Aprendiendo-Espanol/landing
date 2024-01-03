@@ -1,4 +1,4 @@
-baseURL = 'https://codeshard.github.io/'
+baseURL = 'https://codeshard.github.io/aprendiendo-espanol/'
 languageCode = 'es-es'
 title = 'Aprendiendo Español'
 theme = 'hugo-profile'
